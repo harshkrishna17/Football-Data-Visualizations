@@ -75,7 +75,7 @@ figure
 
 #title and captions
 
-figure + theme_bw() + labs(subtitle = "How have the PL T4 generated SCA through <b style='color:#238b45'>Live balls</b>,
+figure + theme_bw() + labs(subtitle = "How have the PL T4 generated GCA through <b style='color:#238b45'>Live balls</b>,
                           <b style='color:#08519c'>Dead balls</b>,
                           <b style='color:#de2d26'>Dribbles</b>,
                           <b style='color:#6a51a3'>Shots</b>,
