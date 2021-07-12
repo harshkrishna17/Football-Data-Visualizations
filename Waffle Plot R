@@ -85,5 +85,5 @@ figure + theme_bw() + labs(subtitle = "How have the PL T4 generated GCA through 
   theme(plot.title = element_markdown(lineheight = 1.1),
         plot.subtitle = element_markdown(lineheight = 1.1)) +
   labs(fill="",                                                                       
-       caption = "Data from StatsBomb via FBref
+       caption = "Data from FBref via worldfootballR
        Created by Harsh Krishna")
