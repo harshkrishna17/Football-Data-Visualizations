@@ -41,3 +41,49 @@ Dumbbel chart showing the home-away form of Premier League clubs in the 2020/21 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Involvement and creativity of midfielders in the top 5 leagues (2020/21).
+
+![image](https://user-images.githubusercontent.com/87293901/125807356-80c78317-bd7c-47b7-9648-d027b4d54297.png) ![image](https://user-images.githubusercontent.com/87293901/125807402-ade73cfd-6104-4c54-b797-93de4a1f09b0.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Shot-heat-Maps of specific players (2020/21)
+
+![image](https://user-images.githubusercontent.com/87293901/125807699-ad2d0141-2ba9-4106-a4d8-4b8daa37f998.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Visualizing ambidexterity in players through passes attempted by foot (2020/21)
+
+![image](https://user-images.githubusercontent.com/87293901/125807938-e38da9a0-c5ec-48f8-b286-a3c34552a86b.png)
+![image](https://user-images.githubusercontent.com/87293901/125807969-7303aa4b-362e-4f8a-88c2-45dfc34c1125.png)
+![image](https://user-images.githubusercontent.com/87293901/125807997-36dae7bc-aaab-4785-9a04-6e3236e832fc.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Involvement of Paul Pogba in his teams play over the past 7 years.
+
+![image](https://user-images.githubusercontent.com/87293901/125808355-a38e79e5-ff01-4ea9-b5a0-217777fe9bd5.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Involvement and creativity of forwards in the top 5 leagues (2020/21)
+
+![image](https://user-images.githubusercontent.com/87293901/125808551-78ffef4f-721b-4f95-ab3b-ebc1963dfa87.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Shot-heat-maps of Cristiano Ronaldo's open-play shots over the years.
+
+![image](https://user-images.githubusercontent.com/87293901/125808621-0215f942-940c-40f5-88a6-d170455244d2.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mason Greenwood's career shots taken, didvided by season and type of shot.
+
+![image](https://user-images.githubusercontent.com/87293901/125809104-e6cfc058-1bfd-4977-aeeb-27b3255ef2f5.png)
+![image](https://user-images.githubusercontent.com/87293901/125809114-291d8719-e9ec-45a8-882f-0b6125bd2e9d.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jadon 
