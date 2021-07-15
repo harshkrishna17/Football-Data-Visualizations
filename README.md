@@ -1,5 +1,7 @@
 # Medium Articles
 
+https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e
+
 Waffle plot vizualizing the best creators (through SCA) at UEFA EURO 2021.
 
 ![Rplot01](https://user-images.githubusercontent.com/87293901/125789898-288d2289-e54a-49c2-b8c3-ed578023f46a.png)
