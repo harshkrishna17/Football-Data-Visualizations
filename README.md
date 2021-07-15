@@ -1,4 +1,4 @@
-# HarshR
+# Medium Articles
 
 Waffle plot vizualizing the best creators (through SCA) at UEFA EURO 2021.
 
