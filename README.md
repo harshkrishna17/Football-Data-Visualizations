@@ -86,4 +86,18 @@ Mason Greenwood's career shots taken, didvided by season and type of shot.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Jadon 
+Jadon Sancho dashboard (2020/21)
+
+![image](https://user-images.githubusercontent.com/87293901/125812130-86e3feaf-9916-4995-a62d-a98bf7a5c4b9.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Manchester United shot map (2020/21)
+
+![image](https://user-images.githubusercontent.com/87293901/125812194-55f49764-f80b-4cb8-8c2b-01b860009a8f.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Click on the link below to be redirected to a tweet explaining passing trends of teams in the Premier League in the 2020/21 season.
+
+[How do teams pass?](https://twitter.com/ftblhk/status/1388117132303503360?s=20)
