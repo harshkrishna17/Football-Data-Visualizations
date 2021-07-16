@@ -14,7 +14,7 @@ All plots created in Rstudio using ggplot2.
 
 Dumbbell chart showing xG performance of Premier League teams in the 2020/21 season.
 
-![image](https://user-images.githubusercontent.com/87293901/125899692-1c8edb34-5c8f-4881-904b-0284ecfc1542.png)
+![image](https://user-images.githubusercontent.com/87293901/125905594-e7aeb085-bf8c-4645-9fe2-20f1dbf5c57a.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
