@@ -12,9 +12,15 @@ Here is a list of all the articles on my Medium page.
 All plots created in Rstudio using ggplot2.
 
 
+Dumbbell chart plotting the performance of Ligue 1 teams with respect to their GD and xGD.
+
+![image](https://user-images.githubusercontent.com/87293901/126057480-5c496095-324d-4a48-9b14-551e4db1157b.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dumbbell chart showing xG performance of Premier League teams in the 2020/21 season.
 
-![image](https://user-images.githubusercontent.com/87293901/125905594-e7aeb085-bf8c-4645-9fe2-20f1dbf5c57a.png)
+![image](https://user-images.githubusercontent.com/87293901/126057440-9e03d967-fdc4-42e9-be5a-34f8055f360e.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
