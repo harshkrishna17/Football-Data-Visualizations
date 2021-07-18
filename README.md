@@ -1,6 +1,7 @@
 # Medium Articles
 Here is a list of all the articles on my Medium page.
 
+[Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
 
 [Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
 
