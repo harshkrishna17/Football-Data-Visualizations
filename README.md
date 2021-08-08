@@ -13,6 +13,12 @@ Here is a list of all the articles on my Medium page.
 All plots created in Rstudio using ggplot2.
 
 
+Dumbbell chart showing the spread of minutes played by Mason Greenwood over the course of his career.
+
+![Rplot89](https://user-images.githubusercontent.com/87293901/128620874-04c7c804-11d2-4358-9873-c2d077aad8ec.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 xG Trendline of Lyon over the past 4 seasons.
 
 ![lyon xg 2](https://user-images.githubusercontent.com/87293901/127998384-e12bff50-e4ef-4ead-b16e-437563c8a131.png)
@@ -29,11 +35,23 @@ Dumbbell chart plotting the performance of Ligue 1 teams with respect to their G
 
 ![image](https://user-images.githubusercontent.com/87293901/126057480-5c496095-324d-4a48-9b14-551e4db1157b.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vizualizing how finishing varies over time with Danny Ings as an example.
+
+![Rplot93](https://user-images.githubusercontent.com/87293901/128620853-d4508695-d560-4ffd-b34a-1ea122191333.png)
+
 
 
 # Tableau Plots
 Data visualizations created using Tableau Public. 
 
+
+Upset plot showing the top shot combinations between Manchester United's attackers for the 2020/21 season.
+
+<img width="820" alt="Screenshot 2021-08-07 145557" src="https://user-images.githubusercontent.com/87293901/128620811-d1198327-f3b2-4a5c-a086-81c314fddd11.png">
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bump chart showing the matchweek-by-matchweek position of the traditional "big 6" clubs of the Premier League in the 2020/21 season.
 
