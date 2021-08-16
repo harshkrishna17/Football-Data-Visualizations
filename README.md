@@ -1,6 +1,8 @@
 # Medium Articles
 Here is a list of all the articles on my Medium page.
 
+[Tammy Abraham:Scout Report](https://harshkrishna7.medium.com/tammy-abraham-scout-report-3d7af3c9b4d2)
+
 [Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
 
 [Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
