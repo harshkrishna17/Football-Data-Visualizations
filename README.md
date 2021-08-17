@@ -1,13 +1,19 @@
 # Medium Articles
 Here is a list of all the articles on my Medium page.
 
-[Tammy Abraham:Scout Report](https://harshkrishna7.medium.com/tammy-abraham-scout-report-3d7af3c9b4d2)
+-> Scouting Reports
 
-[Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
+[1. Tammy Abraham : Scout Report](https://harshkrishna7.medium.com/tammy-abraham-scout-report-3d7af3c9b4d2)
 
-[Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
+-> Tutorials
 
-[The Psychology behind Automatisms](https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e)
+[1. Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
+
+[2. Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
+
+-> General Articles
+
+[1. The Psychology behind Automatisms](https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e)
 
 
 
