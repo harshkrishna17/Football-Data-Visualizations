@@ -5,11 +5,15 @@ Here is a list of all the articles on my Medium page.
 
 [1. Tammy Abraham : Scout Report](https://harshkrishna7.medium.com/tammy-abraham-scout-report-3d7af3c9b4d2)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 -> Tutorials
 
 [1. Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
 
 [2. Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -> General Articles
 
