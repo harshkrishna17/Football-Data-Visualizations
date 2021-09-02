@@ -25,6 +25,12 @@ Here is a list of all the articles on my Medium page.
 All plots created in Rstudio using ggplot2.
 
 
+xG Race plot for Wolves vs Manchester United
+
+![xgrace1](https://user-images.githubusercontent.com/87293901/131794445-8628ef99-5dee-40fb-9839-a3ece203984b.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dumbbell chart showing the spread of minutes played by Mason Greenwood over the course of his career.
 
 ![Rplot89](https://user-images.githubusercontent.com/87293901/128620874-04c7c804-11d2-4358-9873-c2d077aad8ec.png)
