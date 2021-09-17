@@ -1,5 +1,5 @@
-# Medium Articles
-Here is a list of all the articles on my Medium page.
+# Football Articles & Projects 
+Here is a list of all the articles and projects I have worked on with or without data analysis.
 
 -> Scouting Reports
 
@@ -15,9 +15,11 @@ Here is a list of all the articles on my Medium page.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--> General Articles
+-> General Stuff
 
 [1. The Psychology behind Automatisms](https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e)
+
+[2. Shot Centrality](https://twitter.com/xHarshness/status/1438507671431225363?s=20)
 
 
 
@@ -25,11 +27,11 @@ Here is a list of all the articles on my Medium page.
 All plots created in Rstudio using ggplot2.
 
 
-xG Race plot for Wolves vs Manchester United
+Cumulative transfer spendings of Premier League clubs from 1992-2021
 
-![xgrace1](https://user-images.githubusercontent.com/87293901/131794445-8628ef99-5dee-40fb-9839-a3ece203984b.png)
+![transferviz](https://user-images.githubusercontent.com/87293901/133718461-9a41e487-acb1-4b5a-a436-40ac54c9b466.png)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dumbbell chart showing the spread of minutes played by Mason Greenwood over the course of his career.
 
@@ -64,6 +66,14 @@ Vizualizing how finishing varies over time with Danny Ings as an example.
 # Tableau Plots
 Data visualizations created using Tableau Public. 
 
+
+Data Vizulaisations for the "Shot Centrality" project.
+
+<img width="877" alt="xgproj1" src="https://user-images.githubusercontent.com/87293901/133718667-4e9442fd-6b54-4738-ab6d-152befffab17.png">
+
+<img width="689" alt="Screenshot 2021-09-16 190232" src="https://user-images.githubusercontent.com/87293901/133718690-2d4bdf9e-7104-4c5e-b373-4784a633a4da.png">
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Upset plot showing the top shot combinations between Manchester United's attackers for the 2020/21 season.
 
