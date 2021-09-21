@@ -1,5 +1,5 @@
-# Football Articles & Projects 
-Here is a list of all the articles and projects I have worked on with or without data analysis.
+# Football Articles
+Here is a list of all the articles I have written.
 
 -> Scouting Reports
 
@@ -18,8 +18,6 @@ Here is a list of all the articles and projects I have worked on with or without
 -> General Stuff
 
 [1. The Psychology behind Automatisms](https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e)
-
-[2. Shot Centrality](https://twitter.com/xHarshness/status/1438507671431225363?s=20)
 
 
 
@@ -67,11 +65,9 @@ Vizualizing how finishing varies over time with Danny Ings as an example.
 Data visualizations created using Tableau Public. 
 
 
-Data Vizulaisations for the "Shot Centrality" project.
+xG accumulation of team's in given time periods.
 
-<img width="877" alt="xgproj1" src="https://user-images.githubusercontent.com/87293901/133718667-4e9442fd-6b54-4738-ab6d-152befffab17.png">
-
-<img width="689" alt="Screenshot 2021-09-16 190232" src="https://user-images.githubusercontent.com/87293901/133718690-2d4bdf9e-7104-4c5e-b373-4784a633a4da.png">
+<img width="683" alt="Screenshot 2021-09-12 131014" src="https://user-images.githubusercontent.com/87293901/134206409-c0e456ff-f1b3-426b-8185-0a986e0a54ab.png">
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -154,8 +150,18 @@ Manchester United shot map (2020/21)
 
 ![image](https://user-images.githubusercontent.com/87293901/125812194-55f49764-f80b-4cb8-8c2b-01b860009a8f.png)
 
+
+
+# Miscellaneous Projects
+
+
+Data Vizulaisations for the "Shot Centrality" project which attempted to quantify the centrality and closeness to goal of a player's shots by calculating the standard deviation of their shot locations from a set point (Centre of the goal-line).
+
+<img width="877" alt="xgproj1" src="https://user-images.githubusercontent.com/87293901/133718667-4e9442fd-6b54-4738-ab6d-152befffab17.png">
+<img width="689" alt="Screenshot 2021-09-16 190232" src="https://user-images.githubusercontent.com/87293901/133718690-2d4bdf9e-7104-4c5e-b373-4784a633a4da.png">
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Click on the link below to be redirected to a tweet explaining passing trends of teams in the Premier League in the 2020/21 season.
+Splitting xG of a team with respect to the situation with the help of the tidyverse package. [R + Excel]
 
-[How do teams pass?](https://twitter.com/ftblhk/status/1388117132303503360?s=20)
+<img width="808" alt="Screenshot 2021-09-20 224158" src="https://user-images.githubusercontent.com/87293901/134206201-117887f8-e831-44df-972c-9e86baf9e46f.png">
