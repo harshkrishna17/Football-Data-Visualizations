@@ -1,26 +1,3 @@
-# Football Articles
-Here is a list of all the articles I have written.
-
--> Scouting Reports
-
-[1. Tammy Abraham : Scout Report](https://harshkrishna7.medium.com/tammy-abraham-scout-report-3d7af3c9b4d2)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
--> Tutorials
-
-[1. Creating Dumbbell Charts in R](https://harshkrishna7.medium.com/creating-dumbbell-charts-in-r-547ab863c86b)
-
-[2. Creating Waffle Charts in Tableau](https://harshkrishna7.medium.com/creating-waffle-charts-in-tableau-a6a8f9e31898)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
--> General Stuff
-
-[1. The Psychology behind Automatisms](https://harshkrishna7.medium.com/the-psychology-behind-automatisms-d424d073c46e)
-
-
-
 # R Plots
 All plots created in Rstudio using ggplot2.
 
@@ -149,19 +126,3 @@ Jadon Sancho dashboard (2020/21)
 Manchester United shot map (2020/21)
 
 ![image](https://user-images.githubusercontent.com/87293901/125812194-55f49764-f80b-4cb8-8c2b-01b860009a8f.png)
-
-
-
-# Miscellaneous Projects
-
-
-Data Vizulaisations for the "Shot Centrality" project which attempted to quantify the centrality and closeness to goal of a player's shots by calculating the standard deviation of their shot locations from a set point (Centre of the goal-line).
-
-<img width="877" alt="xgproj1" src="https://user-images.githubusercontent.com/87293901/133718667-4e9442fd-6b54-4738-ab6d-152befffab17.png">
-<img width="689" alt="Screenshot 2021-09-16 190232" src="https://user-images.githubusercontent.com/87293901/133718690-2d4bdf9e-7104-4c5e-b373-4784a633a4da.png">
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Splitting xG of a team with respect to the situation with the help of the tidyverse package. [R + Excel]
-
-<img width="808" alt="Screenshot 2021-09-20 224158" src="https://user-images.githubusercontent.com/87293901/134206201-117887f8-e831-44df-972c-9e86baf9e46f.png">
