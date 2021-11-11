@@ -2,6 +2,34 @@
 All plots created in Rstudio using ggplot2.
 
 
+Using k-means algorithm to cluster progressive passes from the StatsBomb open dataset. All calculations and model implemented in R as well.
+
+![Method2](https://user-images.githubusercontent.com/87293901/141331484-e1cb645b-9ce9-4a74-b72f-648c38aae076.png)
+
+![Method1](https://user-images.githubusercontent.com/87293901/141331497-8e5efc22-e0e8-48f8-b0c3-c6171cc9369a.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Passflow map of Borussia Dortmund 2020/21 [Made using ggshakeR]
+
+![image](https://user-images.githubusercontent.com/87293901/141329934-46d7f982-cf11-4be9-a093-a2207a375a46.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pizza plots (single player and comparison type) of specific player's using StatsBomb/FBref data
+
+![image](https://user-images.githubusercontent.com/87293901/140862887-74f99485-790e-466a-9a59-82fe5fa64fa6.png)
+
+![image](https://user-images.githubusercontent.com/87293901/140862909-d6a11158-1864-4621-ba8a-d91ba37eb1ee.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pass Sonar's of specific player's using event data [2020/21, Dortmund, Bundesliga]
+
+![image](https://user-images.githubusercontent.com/87293901/141331097-59d0f29f-98db-4a70-9d58-235b645ae0da.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Cumulative transfer spendings of Premier League clubs from 1992-2021
 
 ![transferviz](https://user-images.githubusercontent.com/87293901/133718461-9a41e487-acb1-4b5a-a436-40ac54c9b466.png)
