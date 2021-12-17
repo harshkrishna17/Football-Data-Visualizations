@@ -1,3 +1,12 @@
+# Python Plots 
+Created in Jupyter Notebooks 
+
+Basic Shot Map of Mohammed Salah
+
+![sample](https://user-images.githubusercontent.com/87293901/146572823-b0e8ed0a-d386-43c5-b6db-5ec7f53e0ebe.png)
+
+
+
 # R Plots
 All plots created in Rstudio using ggplot2.
 
