@@ -1,15 +1,23 @@
 # Python Plots 
 Created in Jupyter Notebooks 
 
-Basic Shot Map of Mohammed Salah
+Basic Shot Map with matplotlib
 
-![sample](https://user-images.githubusercontent.com/87293901/146572823-b0e8ed0a-d386-43c5-b6db-5ec7f53e0ebe.png)
+![shotm](https://user-images.githubusercontent.com/87293901/147869671-98197e9f-c8c8-48e6-a5e9-58186617e9a8.png)
+
+![shotma](https://user-images.githubusercontent.com/87293901/147869681-d32a505a-1364-4a9d-acf1-63575addf7d2.png)
 
 
 
 # R Plots
 All plots created in Rstudio using ggplot2.
 
+
+Comet Chart showing the difference in npxG of teams in two seasons.
+
+![comet](https://user-images.githubusercontent.com/87293901/147869701-d2ef0816-872d-4c4b-9f1f-584efbf625b7.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Using k-means algorithm to cluster progressive passes from the StatsBomb open dataset. All calculations and model implemented in R as well.
 
