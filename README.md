@@ -19,6 +19,12 @@ xG Trendline using StatsBomb/FBref data
 All plots created in Rstudio using ggplot2.
 
 
+Waffle plot on how Premier League teams conceded goals in the 2021/22 season. 
+
+![image](https://user-images.githubusercontent.com/87293901/150677199-9714ed50-e469-4261-bf41-28bd77728bc2.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Comet Chart showing the difference in npxG of teams in two seasons.
 
 ![comet](https://user-images.githubusercontent.com/87293901/147869701-d2ef0816-872d-4c4b-9f1f-584efbf625b7.png)
