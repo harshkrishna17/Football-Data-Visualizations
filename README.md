@@ -7,6 +7,12 @@ Basic Shot Map with matplotlib
 
 ![shotma](https://user-images.githubusercontent.com/87293901/147869681-d32a505a-1364-4a9d-acf1-63575addf7d2.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+xG Trendline using StatsBomb/FBref data
+
+![image](https://user-images.githubusercontent.com/87293901/150665917-122ffec7-84ed-41f5-ae8a-021281ee733d.png)
+
 
 
 # R Plots
